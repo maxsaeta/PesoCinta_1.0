@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PesoCinta</string>
+    <string name="title_home">Peso Teorico</string>
+    <string name="title_dashboard">Calculo Velocidad</string>
+    <string name="title_notifications">Max Saeta</string>
+    <string name="speed">Velocidad de la correa (m/s)</string>
+    <string name="test_weigh">Pesas de Prueba (kg)</string>
+    <string name="area">Area de Pesaje (m)</string>
+    <string name="calcular">Calcular</string>
+    <string name="kgs">kg/s</string>
+    <string name="tnh">TN/h</string>
+    <string name="m_s">m/s</string>
+    <string name="diametrotext">Diametro Rodillo Principal</string>
+    <string name="m">  m  </string>
+    <string name="n">Vueltas por minuto</string>
+    <string name="n_m">n/min</string>
+    <string name="instagram">Instagram: @MaxSaeta</string>
+    <string name="whatsapp">WhatsApp +58 424 6452936</string>
+    <string name="version">Version 1.0</string>
+</resources>
